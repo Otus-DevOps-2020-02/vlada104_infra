@@ -1,0 +1,4 @@
+dist: trusty
+sudo: required
+language: bash
+before_install:  -curlhttps://raw.githubusercontent.com/express42/otus-homeworks/2020-02/run.sh|bash
